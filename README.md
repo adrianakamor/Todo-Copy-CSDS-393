@@ -1,6 +1,8 @@
 # Todo-Copy-CSDS-393
 Install dependencies with npm
+
 Cd into client-app
+
 On terminal: npm install
 Cd into api 
 On terminal: npm install
